@@ -6,7 +6,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Mobile Programming
-- 🤔 I’m looking for help with ...
 - 📫 How to reach me: 
 -
 
